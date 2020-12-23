@@ -229,7 +229,7 @@ a.dotted-link:hover {
 
 .latest .featured .title {
 	margin-bottom: 5px;
-	font-size: 20px
+	font-size: 25px
 }
 
 .latest .featured .summary {
@@ -488,7 +488,7 @@ a.dotted-link:hover {
 	font-size: 13px;
 	color: #999;
 	font-weight: 600;
-	padding-left: 25px
+	padding-left: 0px
 }
 
 .education .item .university .year {
